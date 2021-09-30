@@ -1,3 +1,6 @@
-This is the world file for World #8 of the BuilderBoyHarry SMP.
-Do whatever you want with it, just don't say that you created 
-it or something. The licence file is more specific.
+Licence:
+
+World Eight of the BuilderBoyHarry Survival Multiplayer Server © June 15, 2021
+by BuilderBoyHarry is licensed under Attribution-ShareAlike 4.0 International. 
+To view a copy of this license, visit 
+http://creativecommons.org/licenses/by-sa/4.0/
